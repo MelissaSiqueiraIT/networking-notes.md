@@ -67,6 +67,9 @@ In a standard infrastructure BSS, a single Access Point (AP) acts as the central
 
 It identifies the wireless network that devices can connect to, such as `Home_WiFi` or `School_WiFi`.
 
+<img width="1024" height="690" alt="image" src="https://github.com/user-attachments/assets/3a655b4c-48ab-4c59-8593-233443a1c2ea" />
+(example reference from Cisco Networking Basics course)
+
 ### BSSID
 
 **BSSID (Basic Service Set Identifier)** is an identifier used to identify a specific BSS.
