@@ -8,6 +8,8 @@ WEP (Wired Equivalent Privacy) was one of the first security protocols developed
 <img width="552" height="204" alt="image" src="https://github.com/user-attachments/assets/0446ce80-584b-47fb-a940-9c2a4791aa3d" />
 
 WPA (Wi-Fi Protected Access) was introduced to address weaknesses in WEP. The original WPA used TKIP (Temporal Key Integrity Protocol), which improved security without requiring all older hardware to be replaced. However, TKIP also has known weaknesses and is no longer recommended. It dynamically changes encryption keys over time instead of relying on WEP's weak key-handling approach and also make it harder to exploit the weaknesses associated with WEP's repeated IVs and static encryption keys.
+<img width="505" height="270" alt="image" src="https://github.com/user-attachments/assets/7025ad8c-ab90-4018-81a2-151c34568074" />
+
 
 WPA2 introduced stronger security through AES-based CCMP encryption. It is still widely used and provides good protection when configured correctly. In a typical home network, WPA2-Personal uses a shared password that allows authorized devices to connect. WPA2-Enterprise uses an authentication server, commonly RADIUS, to verify individual users or devices instead of relying on a single shared password. CCMP helps detect unauthorized modifications to transmitted packets.
 
