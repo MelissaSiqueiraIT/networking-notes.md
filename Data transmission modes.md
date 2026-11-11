@@ -1,6 +1,7 @@
 <img width="448" height="664" alt="img" src="https://github.com/user-attachments/assets/4bcd9f87-b41b-40e0-ae31-80e169b7e5b8" />
 <sub> (Reference from the book "Comunicação de Dados e Redes de Computadores." Translation means "Data Communications and Networking" written by Behrouz A. Forouzan.) </sub>
 
+ <br>
  
 There are three types of data transmission, known as modes, used in network devices. They describe the direction in which data can travel between two devices.
 
