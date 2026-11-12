@@ -48,7 +48,7 @@ ________________________________________________________________________________
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/cc6d9f57-9abb-4ea5-b343-10111d01acff" />
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/c22d5bb1-521f-43de-8b6d-2f7190cde81f" />
 
-An **Access Point (AP)** in a wireless network allows devices to communicate with the network, acting as a transmitter and receiver.
+An **Access Point (AP)** in a wireless network allows devices to communicate with the network, acting as a transmitter and receiver. It also provides Wi-Fi.
 
 ### Independent Basic Service Set (IBSS)
 
@@ -95,4 +95,6 @@ For example, a school may have several APs throughout the building. All APs can 
 but each AP has a different BSSID. Together, these interconnected BSSs form an ESS, allowing users to move between coverage areas while remaining connected to the same wireless network.
 
 An ESS is commonly used in enterprise networks, schools, offices, hotels, and other large environments where multiple APs are required to provide wider Wi-Fi coverage.
+
+**CAPWAP** 
 
